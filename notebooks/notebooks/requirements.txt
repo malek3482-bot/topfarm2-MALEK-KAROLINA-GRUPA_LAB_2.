@@ -1,0 +1,6 @@
+topfarm>=2.6
+py_wake>=3.5
+jupyter
+ipykernel
+pandas
+matplotlib
